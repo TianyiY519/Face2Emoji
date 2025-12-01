@@ -1,0 +1,17 @@
+torch==2.9.1+cpu
+torchvision==0.24.1+cpu
+torchaudio==2.9.1
+
+numpy
+pillow
+opencv-python
+matplotlib
+tqdm
+seaborn
+scikit-learn
+tensorboard
+
+kagglehub
+
+# optional utilities
+psutil
